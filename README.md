@@ -226,20 +226,19 @@ If you use this software in your research, please cite our paper:
 ### BibTeX
 
 ```bibtex
-@misc{lucassen2025pathologyreportgenerationmultimodal,
-    title={Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions},
-    author={Ruben T. Lucassen and Sander P. J. Moonemans and Tijn van de Luijtgaarden and Gerben E. Breimer and Willeke A. M. Blokx and Mitko Veta},
-    year={2025},
-    eprint={2502.19293},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    url={https://arxiv.org/abs/2502.19293},
+@inproceedings{lucassen2025pathology,
+  title={Pathology report generation and multimodal representation learning for cutaneous melanocytic lesions},
+  author={Lucassen, Ruben T and Moonemans, Sander PJ and van de Luijtgaarden, Tijn and Breimer, Gerben E and Blokx, Willeke AM and Veta, Mitko},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={502--511},
+  year={2025},
+  organization={Springer}
 }
 ```
 
 ### APA Style
 
-Lucassen, R. T., Moonemans, S. P. J., van de Luijtgaarden, T., Breimer, G. E., Blokx, W. A. M., & Veta, M. (2025). *Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions*. arXiv preprint arXiv:2502.19293.
+Lucassen, R. T., Moonemans, S. P., van de Luijtgaarden, T., Breimer, G. E., Blokx, W. A., & Veta, M. (2025, September). Pathology report generation and multimodal representation learning for cutaneous melanocytic lesions. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 502-511). Cham: Springer Nature Switzerland.
 
 ## License
 
